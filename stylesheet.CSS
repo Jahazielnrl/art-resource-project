@@ -86,3 +86,16 @@
     background-size: cover;
     background-position: center;
 }
+.backgroundc{
+    background-color: black;
+
+}
+.row{
+    display: flex;
+    height: 88%;
+    align-items: center;
+}
+.col{
+    flex-basis: 50%;
+    color: white;
+}
