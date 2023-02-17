@@ -98,3 +98,8 @@
     flex-basis: 50%;
     color: white;
 }
+
+img{ max-width: 70%; margin: auto;
+}
+p{
+}
