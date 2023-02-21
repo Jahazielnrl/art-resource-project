@@ -85,16 +85,16 @@
     background-size: cover;
     background-position: center;
 }
-.backgroundc{
+.moviebackgroundc{
     background-color: black;
 
 }
-.row{
+.movierow{
     display: flex;
     height: 88%;
     align-items: center;
 }
-.col{
+.moviecol{
     flex-basis: 50%;
     color: white;
 }
