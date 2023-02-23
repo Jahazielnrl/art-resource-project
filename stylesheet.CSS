@@ -85,32 +85,32 @@
     background-size: cover;
     background-position: center;
 }
-.moviebackgroundc{
+.backgroundc{
     background-color: black;
 
 }
-.movierow{
+.row{
     display: flex;
     height: 88%;
     align-items: center;
 }
-.moviecol{
+.col{
     flex-basis: 50%;
     color: white;
 }
 
 img{ max-width: 70%; margin: auto;
     border-image: fill;
+    
 }
-p{
-}
-p{
+
+.rephecp{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     color: #4ed7da;
     text-align: center;
     }
-h1{
+.rephech1{
     font-family: Arial, Helvetica, sans-serif;
     color: #4ed7da;
     text-align: center;
@@ -118,7 +118,7 @@ h1{
     text-decoration: underline;
     }
 
-    .xxskins{
+.xxskins{
        height: 332px;
        border:40px
     }
